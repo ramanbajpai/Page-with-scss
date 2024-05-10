@@ -1,0 +1,57 @@
+.nav {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around; }
+
+.banner h1 {
+  font-size: 40px;
+  color: gray;
+  text-align: center; }
+
+.footer h3 {
+  font-size: 30px;
+  color: gray;
+  text-align: center;
+  align-items: center; }
+
+.nav {
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  text-align: center; }
+
+.btn {
+  background-color: blue; }
+
+.body {
+  color: royalblue; }
+
+footer h1 {
+  text-align: center;
+  align-items: center; }
+
+footer div {
+  text-align: center;
+  align-items: center; }
+
+.container {
+  white-space: nowrap; }
+
+.container img {
+  display: inline-block;
+  vertical-align: middle; }
+
+.nv {
+  margin-right: 50px; }
+  .nv:hover {
+    background-color: royalblue; }
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.btn {
+  color: 0;
+  border-radius: 40%; }
